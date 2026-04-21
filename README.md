@@ -35,3 +35,7 @@ NEXT_PUBLIC_APP_NAME=JongToTemp
 # Server-only variables
 # API_KEY=your_api_key_here
 ```
+## 현재 작업 현황
+
+- 최신 현황/우선순위/실행 체크리스트: `docs/WORK_STATUS_AND_NEXT_STEPS.md`
+
